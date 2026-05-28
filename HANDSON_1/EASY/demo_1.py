@@ -1,6 +1,6 @@
-name = input("name = ")
-age = int(input("age = "))
-color = input("favorite_color = ")
+name ="sriram"
+age = 21
+color = "red"
 
 print("Name:", name)
 print("Age:", age)
